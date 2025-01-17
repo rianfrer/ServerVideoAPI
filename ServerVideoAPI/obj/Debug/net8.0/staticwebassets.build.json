@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "UYmKxMhsnXIs/ILt/OO6RuRkZJbHReuZOFfyMTOp8e0=",
+  "Source": "ServerVideoAPI",
+  "BasePath": "_content/ServerVideoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
